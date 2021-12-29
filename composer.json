@@ -1,0 +1,16 @@
+{
+    "name": "vasya/pg-test",
+    "authors": [
+        {
+            "name": "seniorfulldev",
+            "email": "piaoyilong114@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "Vasya\\PgTest\\" : "src"
+         }
+    }
+}
