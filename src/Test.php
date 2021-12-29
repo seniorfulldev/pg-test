@@ -1,7 +1,7 @@
-<?php namespace Vasya\PgTest;
-
+<?php 
+namespace Vasya\PgTest;
 class Ballistic {
     public function Ballistic(){
-        return 'Hi';
+        return 'Hi, there!';
     }
 }
